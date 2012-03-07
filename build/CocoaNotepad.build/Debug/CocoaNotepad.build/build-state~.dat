@@ -1,0 +1,196 @@
+TCocoaNotepad
+v7
+r0
+t324084234.261897
+cCheck dependencies
+cProcessInfoPlistFile /Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/Info.plist CocoaNotepad-Info.plist
+cCopyStringsFile /Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/Shahid/Development/CocoaNotepad/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/Dd/DdP3+9SrFwmb6l1VP7PuFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaNotepad_Prefix-grhzgnbvhusmlcegdssausxpnzmp/CocoaNotepad_Prefix.pch.gch CocoaNotepad_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CocoaNotepad.build/Debug/CocoaNotepad.build/Objects-normal/x86_64/main.o /Users/Shahid/Development/CocoaNotepad/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CocoaNotepad.build/Debug/CocoaNotepad.build/Objects-normal/x86_64/CocoaNotepadAppDelegate.o /Users/Shahid/Development/CocoaNotepad/CocoaNotepadAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/MacOS/CocoaNotepad normal x86_64
+cTouch /Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004B5FA877000000000000A5E0
+t1264560247
+s42464
+
+N/Users/Shahid/Development/CocoaNotepad/CocoaNotepadAppDelegate.h
+c000000004DA0E80A0000000000000150
+t1302390794
+s336
+i<Cocoa/Cocoa.h>
+
+N/Users/Shahid/Development/CocoaNotepad/CocoaNotepadAppDelegate.m
+c000000004DA0E80A000000000000018A
+t1302390794
+s394
+i"CocoaNotepadAppDelegate.h"
+
+N/Users/Shahid/Development/CocoaNotepad/CocoaNotepad_Prefix.pch
+c000000004DA0E80A000000000000009B
+t1302390794
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/Shahid/Development/CocoaNotepad/English.lproj/InfoPlist.strings
+c000000004DA0E80A000000000000002D
+t1302390794
+s45
+
+N/Users/Shahid/Development/CocoaNotepad/English.lproj/MainMenu.xib
+c000000004DA0E80A000000000002BBA2
+t1302390794
+s179106
+
+N/Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/Objects-normal/x86_64/CocoaNotepad.LinkFileList
+c000000004DA0EA6F00000000000000FF
+t1302391407
+s255
+
+N/Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/Objects-normal/x86_64/CocoaNotepadAppDelegate.o
+t1302391431
+s21224
+
+N/Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/Objects-normal/x86_64/main.o
+t1302391431
+s4992
+
+N/Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app
+t1302391434
+s102
+
+N/Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/Info.plist
+t1302391408
+s901
+
+N/Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/MacOS/CocoaNotepad
+t1302391434
+s14608
+
+N/Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/PkgInfo
+t1302391408
+s8
+
+N/Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1302391411
+s92
+
+N/Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/Resources/English.lproj/MainMenu.nib
+t1302391412
+s34462
+
+N/Users/Shahid/Development/CocoaNotepad/main.m
+c000000004DA0E80A0000000000000108
+t1302390794
+s264
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Dd/DdP3+9SrFwmb6l1VP7PuFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaNotepad_Prefix-grhzgnbvhusmlcegdssausxpnzmp/CocoaNotepad_Prefix.pch.gch
+t1302391429
+s54265616
+
+NCocoaNotepad-Info.plist
+c000000004DA0E80A00000000000003EA
+t1302390794
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324084207#324084208#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCompileC build/CocoaNotepad.build/Debug/CocoaNotepad.build/Objects-normal/x86_64/CocoaNotepadAppDelegate.o /Users/Shahid/Development/CocoaNotepad/CocoaNotepadAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s324084229.644182
+e324084231.397111
+r1
+xCompileC
+xbuild/CocoaNotepad.build/Debug/CocoaNotepad.build/Objects-normal/x86_64/CocoaNotepadAppDelegate.o
+x/Users/Shahid/Development/CocoaNotepad/CocoaNotepadAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Shahid/Development/CocoaNotepad/CocoaNotepadAppDelegate.m324084229#324084231#0(0"0(0#0#64"/Users/Shahid/Development/CocoaNotepad/CocoaNotepadAppDelegate.m8590407744#1588"    cd /Users/Shahid/Development/CocoaNotepad    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/CocoaNotepad-generated-files.hmap -I/Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/CocoaNotepad-own-target-headers.hmap -I/Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/CocoaNotepad-all-target-headers.hmap -iquote /Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/CocoaNotepad-project-headers.hmap -F/Users/Shahid/Development/CocoaNotepad/build/Debug -I/Users/Shahid/Development/CocoaNotepad/build/Debug/include -I/Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/DerivedSources/x86_64 -I/Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/DerivedSources -include /var/folders/Dd/DdP3+9SrFwmb6l1VP7PuFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaNotepad_Prefix-grhzgnbvhusmlcegdssausxpnzmp/CocoaNotepad_Prefix.pch -c /Users/Shahid/Development/CocoaNotepad/CocoaNotepadAppDelegate.m -o /Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/Objects-normal/x86_64/CocoaNotepadAppDelegate.o0#
+
+CCompileC build/CocoaNotepad.build/Debug/CocoaNotepad.build/Objects-normal/x86_64/main.o /Users/Shahid/Development/CocoaNotepad/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s324084229.626844
+e324084231.393866
+r1
+xCompileC
+xbuild/CocoaNotepad.build/Debug/CocoaNotepad.build/Objects-normal/x86_64/main.o
+x/Users/Shahid/Development/CocoaNotepad/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Shahid/Development/CocoaNotepad/main.m324084229#324084231#0(0"0(0#0#45"/Users/Shahid/Development/CocoaNotepad/main.m8602359840#1550"    cd /Users/Shahid/Development/CocoaNotepad    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/CocoaNotepad-generated-files.hmap -I/Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/CocoaNotepad-own-target-headers.hmap -I/Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/CocoaNotepad-all-target-headers.hmap -iquote /Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/CocoaNotepad-project-headers.hmap -F/Users/Shahid/Development/CocoaNotepad/build/Debug -I/Users/Shahid/Development/CocoaNotepad/build/Debug/include -I/Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/DerivedSources/x86_64 -I/Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/DerivedSources -include /var/folders/Dd/DdP3+9SrFwmb6l1VP7PuFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaNotepad_Prefix-grhzgnbvhusmlcegdssausxpnzmp/CocoaNotepad_Prefix.pch -c /Users/Shahid/Development/CocoaNotepad/main.m -o /Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/Shahid/Development/CocoaNotepad/English.lproj/MainMenu.xib
+s324084208.246247
+e324084212.391507
+r1
+xCompileXIB
+x/Users/Shahid/Development/CocoaNotepad/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib324084208#324084212#0(0"0(0#0#65"/Users/Shahid/Development/CocoaNotepad/English.lproj/MainMenu.xib8598657536#369"    cd /Users/Shahid/Development/CocoaNotepad    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/Resources/English.lproj/MainMenu.nib /Users/Shahid/Development/CocoaNotepad/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s324084208.213536
+e324084211.093912
+r1
+xCopyStringsFile
+x/Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings324084208#324084211#0(0"0(0#0#70"/Users/Shahid/Development/CocoaNotepad/English.lproj/InfoPlist.strings8602242560#370"    cd /Users/Shahid/Development/CocoaNotepad    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/Resources/English.lproj0#
+
+CLd /Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/MacOS/CocoaNotepad normal x86_64
+s324084231.397198
+e324084234.139451
+r1
+xLd
+x/Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/MacOS/CocoaNotepad
+xnormal
+xx86_64
+lSLF07#2@100"Link /Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/MacOS/CocoaNotepad324084231#324084234#0(0"0(0#0#0"8603698464#567"    cd /Users/Shahid/Development/CocoaNotepad    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Shahid/Development/CocoaNotepad/build/Debug -F/Users/Shahid/Development/CocoaNotepad/build/Debug -filelist /Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/Objects-normal/x86_64/CocoaNotepad.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/MacOS/CocoaNotepad0#
+
+CProcessInfoPlistFile /Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/Info.plist CocoaNotepad-Info.plist
+s324084208.138471
+e324084208.213416
+r1
+xProcessInfoPlistFile
+x/Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/Info.plist
+xCocoaNotepad-Info.plist
+lSLF07#2@31"Process CocoaNotepad-Info.plist324084208#324084208#0(0"0(0#0#62"/Users/Shahid/Development/CocoaNotepad/CocoaNotepad-Info.plist31244147623919684#325"    cd /Users/Shahid/Development/CocoaNotepad    builtin-infoPlistUtility CocoaNotepad-Info.plist -genpkginfo /Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Dd/DdP3+9SrFwmb6l1VP7PuFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaNotepad_Prefix-grhzgnbvhusmlcegdssausxpnzmp/CocoaNotepad_Prefix.pch.gch CocoaNotepad_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s324084212.433847
+e324084229.626283
+r1
+xProcessPCH
+x/var/folders/Dd/DdP3+9SrFwmb6l1VP7PuFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaNotepad_Prefix-grhzgnbvhusmlcegdssausxpnzmp/CocoaNotepad_Prefix.pch.gch
+xCocoaNotepad_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile CocoaNotepad_Prefix.pch324084212#324084229#0(0"0(0#0#62"/Users/Shahid/Development/CocoaNotepad/CocoaNotepad_Prefix.pch8606135360#1451"    cd /Users/Shahid/Development/CocoaNotepad    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/CocoaNotepad-generated-files.hmap -I/Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/CocoaNotepad-own-target-headers.hmap -I/Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/CocoaNotepad-all-target-headers.hmap -iquote /Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/CocoaNotepad-project-headers.hmap -F/Users/Shahid/Development/CocoaNotepad/build/Debug -I/Users/Shahid/Development/CocoaNotepad/build/Debug/include -I/Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/DerivedSources/x86_64 -I/Users/Shahid/Development/CocoaNotepad/build/CocoaNotepad.build/Debug/CocoaNotepad.build/DerivedSources -c /Users/Shahid/Development/CocoaNotepad/CocoaNotepad_Prefix.pch -o /var/folders/Dd/DdP3+9SrFwmb6l1VP7PuFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaNotepad_Prefix-grhzgnbvhusmlcegdssausxpnzmp/CocoaNotepad_Prefix.pch.gch0#
+
+CTouch /Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app
+s324084234.139614
+e324084234.240439
+r1
+xTouch
+x/Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app
+lSLF07#2@73"Touch /Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app324084234#324084234#0(0"0(0#0#0"8606631552#136"    cd /Users/Shahid/Development/CocoaNotepad    /usr/bin/touch -c /Users/Shahid/Development/CocoaNotepad/build/Debug/CocoaNotepad.app0#
+

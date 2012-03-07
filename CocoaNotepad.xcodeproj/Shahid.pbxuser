@@ -1,0 +1,224 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 240}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* CocoaNotepadAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 240}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 336}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* CocoaNotepadAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 260}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3, 391}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* CocoaNotepad_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 240}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 155}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F7E867E013511F8A000C444B /* CocoaNotepad */;
+		activeTarget = 8D1107260486CEB800E47090 /* CocoaNotepad */;
+		codeSenseManager = F7E867F513511FA2000C444B /* Code sense */;
+		executables = (
+			F7E867E013511F8A000C444B /* CocoaNotepad */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					834,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 324083594;
+			PBXWorkspaceStateSaveDate = 324083594;
+		};
+		perUserProjectItems = {
+			F7E867FF135127D3000C444B /* PBXTextBookmark */ = F7E867FF135127D3000C444B /* PBXTextBookmark */;
+			F7E86801135127D3000C444B /* PlistBookmark */ = F7E86801135127D3000C444B /* PlistBookmark */;
+			F7E86802135127D3000C444B /* PBXTextBookmark */ = F7E86802135127D3000C444B /* PBXTextBookmark */;
+			F7E86803135127D3000C444B /* PBXTextBookmark */ = F7E86803135127D3000C444B /* PBXTextBookmark */;
+			F7E86804135127D3000C444B /* PBXTextBookmark */ = F7E86804135127D3000C444B /* PBXTextBookmark */;
+			F7E86805135127D3000C444B /* PBXTextBookmark */ = F7E86805135127D3000C444B /* PBXTextBookmark */;
+			F7E86806135127D3000C444B /* PBXTextBookmark */ = F7E86806135127D3000C444B /* PBXTextBookmark */;
+			F7E86807135127D3000C444B /* PBXTextBookmark */ = F7E86807135127D3000C444B /* PBXTextBookmark */;
+		};
+		sourceControlManager = F7E867F413511FA2000C444B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 263}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 264}";
+		};
+	};
+	8D1107260486CEB800E47090 /* CocoaNotepad */ = {
+		activeExec = 0;
+		executables = (
+			F7E867E013511F8A000C444B /* CocoaNotepad */,
+		);
+	};
+	F7E867E013511F8A000C444B /* CocoaNotepad */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CocoaNotepad;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F7E867F413511FA2000C444B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F7E867F513511FA2000C444B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F7E867FF135127D3000C444B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F7E86800135127D3000C444B /* Cocoa.h */;
+		name = "Cocoa.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+	F7E86800135127D3000C444B /* Cocoa.h */ = {
+		isa = PBXFileReference;
+		name = Cocoa.h;
+		path = /System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h;
+		sourceTree = "<absolute>";
+	};
+	F7E86801135127D3000C444B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CocoaNotepad-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Shahid/Development/CocoaNotepad/CocoaNotepad-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	F7E86802135127D3000C444B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	F7E86803135127D3000C444B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* CocoaNotepadAppDelegate.h */;
+		name = "CocoaNotepadAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 336;
+		vrLoc = 0;
+	};
+	F7E86804135127D3000C444B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* CocoaNotepadAppDelegate.m */;
+		name = "CocoaNotepadAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 391;
+		vrLoc = 3;
+	};
+	F7E86805135127D3000C444B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* CocoaNotepad_Prefix.pch */;
+		name = "CocoaNotepad_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 155;
+		vrLoc = 0;
+	};
+	F7E86806135127D3000C444B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 264;
+		vrLoc = 0;
+	};
+	F7E86807135127D3000C444B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 264;
+		vrLoc = 0;
+	};
+}
